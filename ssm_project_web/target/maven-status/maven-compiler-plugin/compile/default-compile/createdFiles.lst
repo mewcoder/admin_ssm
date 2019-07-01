@@ -1,0 +1,5 @@
+com\zen\controller\ProductController.class
+com\zen\controller\RoleController.class
+com\zen\controller\UserController.class
+com\zen\controller\OrdersController.class
+com\zen\controller\PermissionController.class

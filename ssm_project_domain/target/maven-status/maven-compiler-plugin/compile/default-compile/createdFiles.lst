@@ -1,0 +1,7 @@
+com\zen\domain\Member.class
+com\zen\domain\Role.class
+com\zen\domain\Orders.class
+com\zen\domain\Traveller.class
+com\zen\domain\UserInfo.class
+com\zen\domain\Permission.class
+com\zen\domain\Product.class

@@ -1,0 +1,10 @@
+com\zen\service\IPermissionService.class
+com\zen\service\impl\UserServiceImpl.class
+com\zen\service\IProductService.class
+com\zen\service\impl\ProductServiceImpl.class
+com\zen\service\impl\RoleServiceImpl.class
+com\zen\service\IOrdersService.class
+com\zen\service\IRoleService.class
+com\zen\service\impl\OrdersServiceImpl.class
+com\zen\service\impl\PermissionServiceImpl.class
+com\zen\service\IUserService.class
